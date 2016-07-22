@@ -19,13 +19,13 @@ navigation:
     url: 'http://www.porcelain.love/about'
     name: About
     type: external
-  - id: 'http://www.pocelain.love/gallery/prague2016'
-    url: 'http://www.pocelain.love/gallery/prague2016'
-    name: Prague 2016
-    type: external
   - id: 'http://www.porcelain.love/gallery'
     url: 'http://www.porcelain.love/gallery'
     name: Gallery
+    type: external
+  - id: 'http://www.pocelain.love/gallery/prague2016'
+    url: 'http://www.pocelain.love/gallery/prague2016'
+    name: Prague 2016
     type: external
   - id: 'http://www.porcelain.love/management'
     url: 'http://www.porcelain.love/management'
