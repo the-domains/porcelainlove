@@ -15,5 +15,5 @@ name: PORCELAIN.LOVE
 navigation:
   - id: www.porcelain.love
     url: www.porcelain.love
-    name: About Us
+    name: Gallery
     type: external
