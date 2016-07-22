@@ -17,3 +17,7 @@ navigation:
     url: 'http://www.porcelain.love/about'
     name: About
     type: external
+  - id: 'http://www.porcelain.love/gallery'
+    url: 'http://www.porcelain.love/gallery'
+    name: Gallery
+    type: external
