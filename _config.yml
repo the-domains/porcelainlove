@@ -19,6 +19,10 @@ navigation:
     url: 'http://www.porcelain.love/about'
     name: About
     type: external
+  - id: 'http://www.pocelain.love/gallery/prague2016'
+    url: 'http://www.pocelain.love/gallery/prague2016'
+    name: Prague 2016
+    type: external
   - id: 'http://www.porcelain.love/gallery'
     url: 'http://www.porcelain.love/gallery'
     name: Gallery
@@ -30,8 +34,4 @@ navigation:
   - id: 'http://www.porcelain.love/events'
     url: 'http://www.porcelain.love/events'
     name: Events
-    type: external
-  - id: 'http://www.pocelain.love/gallery/prague2016'
-    url: 'http://www.pocelain.love/gallery/prague2016'
-    name: Prague 2016
     type: external
