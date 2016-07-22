@@ -12,4 +12,8 @@ color:
     - '#FFC0A9'
     - '#FF8598'
 name: PORCELAIN.LOVE
-navigation: []
+navigation:
+  - id: 'http://www.porcelain.love/about'
+    url: 'http://www.porcelain.love/about'
+    name: About
+    type: external
