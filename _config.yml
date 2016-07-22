@@ -1,4 +1,3 @@
-layout_spectrum: 0.8904234215151519
 typography_spectrum: 0.12823102530092
 color:
   brandStrength: 0.04444557265378535
@@ -11,6 +10,9 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.8904234215151519
+author:
+  email: hello@porcelain.love
 name: PORCELAIN.LOVE
 navigation:
   - id: 'http://www.porcelain.love/about'
