@@ -21,3 +21,7 @@ navigation:
     url: 'http://www.porcelain.love/gallery'
     name: Gallery
     type: external
+  - id: 'http://www.porcelain.love/events'
+    url: 'http://www.porcelain.love/events'
+    name: Events
+    type: external
