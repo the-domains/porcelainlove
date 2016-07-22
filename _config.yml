@@ -25,3 +25,7 @@ navigation:
     url: 'http://www.porcelain.love/events'
     name: Events
     type: external
+  - id: 'http://www.porcelain.love/management'
+    url: 'http://www.porcelain.love/management'
+    name: Management
+    type: external
